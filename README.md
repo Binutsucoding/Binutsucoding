@@ -1,3 +1,4 @@
+![logo](https://github.com/Binutsucoding/Utsav-Shah/blob/main/Frontend%20Developer.png)
 <h1 align="center">Hi 👋, I'm Utsav Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
